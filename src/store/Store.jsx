@@ -60,7 +60,7 @@ function Store({children}){
         },
         {
           name:"ali",
-          home:"nilphamari",
+          home:"dinajput",
           'age':30
         }
       ]
